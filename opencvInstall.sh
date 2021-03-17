@@ -1,6 +1,6 @@
 #opencv install ubuntu
 
-#!/bin/sh
+#!/bin/bash
 
 echo "---------------------------------------"
 echo "pip3 is installing..."
